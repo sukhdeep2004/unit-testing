@@ -35,7 +35,7 @@ namespace Calculator.service
         {
             return Math.Pow(a, b);
         }
-        public double SquareRoot(int a)
+        public double SquareRoot(double a)
         {
             if (a < 0)
             {
