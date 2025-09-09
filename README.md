@@ -9,11 +9,11 @@ Project Structure:
 
 NUnitCalculator/
  Calculator/
-         Calculate.cs         # Calculator logic
+         Calculate.cs          # Calculator logic
  Calculator.Tests/
-         UnitTest1.cs    # NUnit test 
+         UnitTest1.cs           # NUnit test 
 
-What This Project Demonstrates
+This Project Demonstrates
 
 Solid NUnit practices: [TestFixture], [SetUp], [TestCase], Assert.Throws.
 
