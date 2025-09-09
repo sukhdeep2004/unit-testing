@@ -4,7 +4,7 @@ using Calculator.service;
 namespace Prime.UnitTests.Services
 {
     [TestFixture]
-    public class PrimeService_IsPrimeShould
+    public class CalculatorServiceTests
     {
         private Calculate _calc;
 
