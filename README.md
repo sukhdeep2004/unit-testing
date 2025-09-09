@@ -1,5 +1,5 @@
 # unit-testing
-?? NUnit Calculator with Advanced Unit Tests
+ NUnit Calculator with Advanced Unit Tests
 
 A C# project showcasing unit testing with NUnit.
 This repo contains a Calculator service with basic and advanced mathematical operations,
@@ -8,12 +8,12 @@ along with a comprehensive NUnit test suite that covers edge cases, exception ha
 Project Structure:
 
 NUnitCalculator/
-??? Calculator/
-?   ??? Calculate.cs         # Calculator logic
-??? Calculator.Tests/
-    ??? UnitTest1.cs    # NUnit test 
+ Calculator/
+         Calculate.cs         # Calculator logic
+ Calculator.Tests/
+         UnitTest1.cs    # NUnit test 
 
-?? What This Project Demonstrates
+What This Project Demonstrates
 
 Solid NUnit practices: [TestFixture], [SetUp], [TestCase], Assert.Throws.
 
@@ -26,4 +26,4 @@ Portfolio value: Demonstrates real-world testing beyond trivial Add/Subtract.
 
 
 Sukhdeep Singh
-?? sukh.d0609@gmail.com
+sukh.d0609@gmail.com
